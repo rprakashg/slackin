@@ -73,7 +73,7 @@
             "SLACK_SUBDOMAIN",
             "GOOGLE_CAPTCHA_SECRET",
             "GOOGLE_CAPTCHA_SITEKEY",
-            "SLACK_CHANNELS"
+            "SLACK_CHANNELS=general"
         ]
     }
 }
